@@ -1,0 +1,11 @@
+.post-container {
+	margin: 50px 10%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.blog-post {
+	margin: 50px 10%;
+	display: flex;
+	flex-wrap: wrap;
+}
